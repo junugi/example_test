@@ -10,7 +10,8 @@ git branch
 git branch "new branch"
 git checkout "branch name"
 git add "file name"
-git commit -m "comments"
+git commit -m "comments
+git commit -am "comments"
 
 git remote -v
 git puch

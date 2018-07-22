@@ -16,6 +16,7 @@ git commit -am "comments"
 git remote -v
 git puch
 git fetch
+git pull origin example_01
 git push origin example_01
 git checkout --track origin/example_01
 

@@ -1,1 +1,19 @@
 example 01
+
+git config --global user.name "Your Name Here"
+git config --global user.email "your_email@youremail.com"
+
+git clone https://github.com/junugi/example_test.git
+
+git status
+git branch
+git branch "new branch"
+git checkout "branch name"
+git add "file name"
+git commit -m "comments"
+
+git remote -v
+git puch
+git fetch
+git push origin example_01
+

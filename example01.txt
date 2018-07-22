@@ -20,3 +20,5 @@ git pull origin example_01
 git push origin example_01
 git checkout --track origin/example_01
 
+git push origin --delete example_01
+
